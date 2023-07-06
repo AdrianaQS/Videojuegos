@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: ceb6558da2854214989cbe7b0daec150
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 364
+        width: 70
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ab8b238a83e8b438972f30641252c5
+      internalID: -822033768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 364
+        width: 70
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97104baa15e8e054ba0f903836cac525
+      internalID: 1756427616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 364
+        width: 70
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a82a62113c0c24cbce0108ef44c313
+      internalID: 412124546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 364
+        width: 70
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c621eb51b6955d64da5cb33b9249263f
+      internalID: -1886606489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 190
+        width: 70
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07102b98ab414ca4c8b1b0a6e0f303d2
+      internalID: -1947777864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 277
+        width: 77
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfd29b5ffbbb1442b9d443575117538
+      internalID: -1898530979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 277
+        width: 74
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7c353923a1c7a46b6abdfbc27d1a11
+      internalID: -1678984746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 277
+        width: 83
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20de4e766308e1a428ba40e1dd932c0f
+      internalID: -897954693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 201
+        width: 30
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7233012d5da0b0f4999fc1e92d47934a
+      internalID: 1650105681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 190
+        width: 88
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ae0735bf3cffe4b8d6fca22fa0ba57
+      internalID: -927983018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 190
+        width: 75
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a40b235e7b2117469e4edaec8faf4fd
+      internalID: -1207807230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 190
+        width: 83
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0ddeca72a8c604491cce5d22ade583
+      internalID: 246972603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 103
+        width: 74
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d45d5eab1800b546b51e0e87a9129df
+      internalID: -1845660353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 103
+        width: 69
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19c29606d40c714ea8f946edb7e1839
+      internalID: -297717854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 103
+        width: 69
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdc81c065918234ca19233faac9f2f0
+      internalID: 1824859624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 101
+        width: 73
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e988399f2e1cded41ab81784e2995fb9
+      internalID: 2143254815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 70
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7752cf5b613b8e45828c21c68954c79
+      internalID: -1091044256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 5
+        width: 70
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c348433774b77c14eb059105555b218c
+      internalID: -251463960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_18
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 42
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6a751a97e04a14789a5ee3591cf07e
+      internalID: -1560418899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - CraftMine - Alex_19
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 29
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a33147335db494aa21156a72b39cfc
+      internalID: 925561451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Browser Games - CraftMine - Alex_8: 1650105681
+      Browser Games - CraftMine - Alex_33: 1935124043
+      Browser Games - CraftMine - Alex_2: 412124546
+      Browser Games - CraftMine - Alex_9: -927983018
+      Browser Games - CraftMine - Alex_0: -822033768
+      Browser Games - CraftMine - Alex_22: 1151746759
+      Browser Games - CraftMine - Alex_34: 1689634231
+      Browser Games - CraftMine - Alex_29: -1313936961
+      Browser Games - CraftMine - Alex_38: -1121630551
+      Browser Games - CraftMine - Alex_31: 1175045616
+      Browser Games - CraftMine - Alex_28: 609674360
+      Browser Games - CraftMine - Alex_15: 2143254815
+      Browser Games - CraftMine - Alex_3: -1886606489
+      Browser Games - CraftMine - Alex_19: 925561451
+      Browser Games - CraftMine - Alex_4: -1947777864
+      Browser Games - CraftMine - Alex_32: 2146694625
+      Browser Games - CraftMine - Alex_36: 1164430464
+      Browser Games - CraftMine - Alex_11: 246972603
+      Browser Games - CraftMine - Alex_20: -1168402971
+      Browser Games - CraftMine - Alex_18: -1560418899
+      Browser Games - CraftMine - Alex_25: 223068508
+      Browser Games - CraftMine - Alex_21: -66089418
+      Browser Games - CraftMine - Alex_23: 417905602
+      Browser Games - CraftMine - Alex_35: 1977249121
+      Browser Games - CraftMine - Alex_5: -1898530979
+      Browser Games - CraftMine - Alex_6: -1678984746
+      Browser Games - CraftMine - Alex_17: -251463960
+      Browser Games - CraftMine - Alex_27: -502858147
+      Browser Games - CraftMine - Alex_1: 1756427616
+      Browser Games - CraftMine - Alex_13: -297717854
+      Browser Games - CraftMine - Alex_24: -1233115476
+      Browser Games - CraftMine - Alex_37: -384484233
+      Browser Games - CraftMine - Alex_12: -1845660353
+      Browser Games - CraftMine - Alex_30: 224667244
+      Browser Games - CraftMine - Alex_10: -1207807230
+      Browser Games - CraftMine - Alex_7: -897954693
+      Browser Games - CraftMine - Alex_14: 1824859624
+      Browser Games - CraftMine - Alex_16: -1091044256
+      Browser Games - CraftMine - Alex_26: -137509755
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
